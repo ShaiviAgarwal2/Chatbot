@@ -10,6 +10,8 @@ This was the major project which I build along with my 2 other teammates during 
 
 -> python
 
+-> OpenAI
+
 -> Streamlit (for UI)
 
 -> pandas
