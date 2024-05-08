@@ -4,7 +4,7 @@ The proposed chatbot aims to adddress several key needs identified through a tho
 
 This was the major project which I build along with my 2 other teammates during my #rd year of engineering.
 
-# Tools and Technolofies used:
+## Tools and Technologies used:
 -> Large Language Models(LLMs)
 
 -> python
